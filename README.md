@@ -17,4 +17,4 @@
 7. NLR
 
 ## 在线使用
-https://share.streamlit.io/你的GitHub用户名/heart-failure-prediction/app.py
+https://share.streamlit.io/YC704363446-alt/heart-failure-prediction/app.py
